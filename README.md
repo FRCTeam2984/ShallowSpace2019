@@ -1,5 +1,5 @@
-# DeepSpace2019
-Vikings Robotics's code for DeepSpace 2019
+# ShallowSpace2019
+Vikings Robotics's code for DeepSpace 2019 without mecanum support
 
 # Basic setup
 1. Install python 3.5 or newer
